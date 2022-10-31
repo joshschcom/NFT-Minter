@@ -1,6 +1,6 @@
 # Commands for the Terminal
 
-`npx create-react-app SAMPLENAME
+npx create-react-app SAMPLENAME
 
 npm run start
 
@@ -12,7 +12,7 @@ npm i ethers
 
 npm i react-bootstrap bootstrap@5.1.3
 
-npm i axios`
+npm i axios
 
 # What we added / deleted
 We have used hashlips to generate the NFTs & metadata BUT we should have uploaded them all at once via f.e. pinata so that we can show them on our frontend, because we didnt do that the main page only shows one specific picture.
