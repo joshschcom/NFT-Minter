@@ -22,3 +22,5 @@ Line 751 Add behind nftpng: + result.tokenID +`.png`
 We removed: <div className="ml-3 mr-3" style={{ display: "inline-grid", gridTemplateColumns: "repeat(4, 5fr)", columnGap: "10px", }} >
 
 On Line 746 Because our NFT is too big and we dont want a sideways grid. Dont forget to add </div>
+
+Original made by n2d
